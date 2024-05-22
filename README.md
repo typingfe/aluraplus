@@ -1,7 +1,7 @@
 ## Olá, bem-vindo ao meu projeto Alura +.
 
 
-![video](vid/readme.mp4)
+![GIF do projeto](./vid/readme.gif)
 
 
 ## Feramentas utilizadas:

@@ -166,3 +166,48 @@ body {
 .lista__link__texto:hover {
     color: var(--azul-primario);
 }
+
+
+@media screen and (max-width: 768px) {
+    .container {
+        display: block;
+        background-image: none;
+    }
+
+    .container__imagem {
+        width: 50vw;
+    }
+
+    .container__caixa {
+        margin: 2em 2em; 
+    }
+
+    .secundario {
+        margin: 0;
+        text-align: center;
+    }
+
+    .terciario {
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 8px;
+    }
+
+    .container__imagem {
+        width: 75vw;
+    }
+
+    .container__imagem2 {
+        width: 75vw;
+    }
+
+    .dispositivos__lista {
+        display: block;
+    }
+
+    .rodape__lista {
+        display: block;
+    }
+
+    
+}
